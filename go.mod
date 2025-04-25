@@ -9,4 +9,4 @@ require (
 	github.com/tevino/abool v0.0.0-20220530134649-2bfc934cb23c
 )
 
- go mod edit -replace github.com/energye/systray=github.com/aaron7970/systray
+replace github.com/energye/systray => ../github.com/aaron7970/systray
